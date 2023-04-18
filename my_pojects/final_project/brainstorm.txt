@@ -1,5 +1,0 @@
-push configs to networking equipment.
-
-change user terminal color or other settings randomly or selected using a prompt.
-
-a way to monitor changes on networking equipment that updates a document for device configuration changes.
